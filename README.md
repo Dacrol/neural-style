@@ -1,6 +1,6 @@
 # Neural art
 
-Forked from [MXNet Neural art](https://github.com/apache/incubator-mxnet/tree/master/example/neural-style).
+Transfers artistic style from one image to another. Uses the 19 layer convolutional neural network model [VGG-19](https://arxiv.org/abs/1409.1556). Forked from [MXNet Neural art](https://github.com/apache/incubator-mxnet/tree/master/example/neural-style).
 
 This is an implementation of the paper
 [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576) by Leon
@@ -22,4 +22,3 @@ Install MXNet and its requirements, then run with `jupyter notebook` and open ne
 <img src=https://github.com/dmlc/web-data/raw/master/mxnet/neural-style/output/4343_starry_night.jpg width=600px>
 
 It takes 30 secs for a Titan X to generate the above 600x400 image.
-
