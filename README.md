@@ -18,10 +18,6 @@ Install MXNet and its requirements, then run with `jupyter notebook` and open ne
 ## Example results
 
 ![Example](example.png)
-![Example 2](example2.png)
-![Example 3](example3.png)
 ![Example 4](example4.png)
-
-___
-
-&nbsp;
+![Example 3](example3.png)
+![Example 2](example2.png)
