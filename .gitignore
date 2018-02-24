@@ -60,3 +60,13 @@ target/
 *.jpg
 
 *.png
+
+model/vgg19\.params
+
+*.gif
+
+*.jpeg
+
+*.psd
+
+\.vscode/
