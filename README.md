@@ -19,6 +19,10 @@ Install MXNet and its requirements, then run with `jupyter notebook` and open ne
 
 ![Example](example.png)
 
-<img src=https://github.com/dmlc/web-data/raw/master/mxnet/neural-style/output/4343_starry_night.jpg width=600px>
+___
+
+&nbsp;
+
+&nbsp;&nbsp;&nbsp;<img src=https://github.com/dmlc/web-data/raw/master/mxnet/neural-style/output/4343_starry_night.jpg width=600px>
 
 It takes 30 secs for a Titan X to generate the above 600x400 image.
