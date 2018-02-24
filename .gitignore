@@ -58,8 +58,13 @@ docs/_build/
 target/
 
 *.jpg
+!/input/style.*
+!/input/content.*
+!/input/starry_night.*
+!/output/final.*
 
 *.png
+!example.*
 
 model/vgg19\.params
 

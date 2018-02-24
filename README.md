@@ -12,10 +12,12 @@ A. Gatys, Alexander S. Ecker, and Matthias Bethge.
 
 ~~Then run `python nstyle.py`, use `-h` to see more options~~
 
-Install MXNet and its requirements, then run with `jupyter notebook`.
+Install MXNet and its requirements, then run with `jupyter notebook` and open neuralart.ipynb.
 
 
 ## Sample results
+
+![Example](example.png)
 
 <img src=https://github.com/dmlc/web-data/raw/master/mxnet/neural-style/output/4343_starry_night.jpg width=600px>
 
