@@ -65,6 +65,7 @@ target/
 
 *.png
 !example.*
+!example*.*
 
 model/vgg19\.params
 
