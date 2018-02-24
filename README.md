@@ -1,14 +1,19 @@
 # Neural art
 
+Forked from [MXNet Neural art](https://github.com/apache/incubator-mxnet/tree/master/example/neural-style).
+
 This is an implementation of the paper
 [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576) by Leon
 A. Gatys, Alexander S. Ecker, and Matthias Bethge.
 
 ## How to use
 
-First use `download.sh` to download pre-trained model and sample inputs
+~~First use `download.sh` to download pre-trained model and sample inputs~~
 
-Then run `python nstyle.py`, use `-h` to see more options
+~~Then run `python nstyle.py`, use `-h` to see more options~~
+
+Install MXNet and its requirements, then run with `jupyter notebook`.
+
 
 ## Sample results
 
@@ -16,10 +21,3 @@ Then run `python nstyle.py`, use `-h` to see more options
 
 It takes 30 secs for a Titan X to generate the above 600x400 image.
 
-## Note
-
-* The current implementation is based the
-  [torch implementation](https://github.com/jcjohnson/neural-style). But we may
-  change it dramatically in the near future.
-
-* We will release multi-GPU version soon.
