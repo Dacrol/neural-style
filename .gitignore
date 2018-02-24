@@ -75,3 +75,5 @@ model/vgg19\.params
 *.psd
 
 \.vscode/
+
+\.ipynb_checkpoints/
